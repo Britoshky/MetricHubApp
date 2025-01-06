@@ -1,0 +1,14 @@
+<resources>
+    <color name="primary">#BB86FC</color> <!-- Morado suave -->
+    <color name="primary_variant">#3700B3</color> <!-- Morado más oscuro -->
+    <color name="secondary">#03DAC5</color> <!-- Verde menta -->
+    <color name="secondary_variant">#03DAC6</color> <!-- Verde menta claro -->
+    <color name="background">#121212</color> <!-- Negro puro -->
+    <color name="surface">#1E1E1E</color> <!-- Gris oscuro para contraste -->
+    <color name="error">#CF6679</color> <!-- Rojo suave para errores -->
+    <color name="on_primary">#000000</color> <!-- Negro para texto sobre primary -->
+    <color name="on_secondary">#000000</color> <!-- Negro para texto sobre secondary -->
+    <color name="on_background">#FFFFFF</color> <!-- Blanco para texto sobre fondo -->
+    <color name="on_surface">#FFFFFF</color> <!-- Blanco para texto sobre superficie -->
+    <color name="on_error">#000000</color> <!-- Negro para texto sobre error -->
+</resources>

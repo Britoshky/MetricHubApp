@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">registerApp</string>
+    <string name="title_register_meter">Registrar Medidor</string>
+    <string name="label_value">Precio</string>
+    <string name="type_water">Agua</string>
+    <string name="type_light">Luz</string>
+    <string name="type_gas">Gas</string>
+    <string name="register_button">Registrar Medición</string>
+    <string name="no_measurements">No hay mediciones registradas.</string>
+    <string name="measurements_history">Historial de Mediciones</string>
+    <string name="add_measurement">Agregar Medición</string>
+    <string name="error_empty_field">El campo no puede estar vacío</string>
+    <string name="error_invalid_number">El valor debe ser un número mayor a 0</string>
+    <string name="label_date">Fecha</string>
+    <string name="delete_measurement">Eliminar medición</string>
+    <string name="unknown_type">Tipo desconocido</string>
+    <string name="previous_page">Página Anterior</string>
+    <string name="next_page">Página Siguiente</string>
+    <string name="register_success">¡Registro agregado exitosamente!</string>
+    <string name="error_only_integers">Solo se aceptan números enteros</string>
+</resources>

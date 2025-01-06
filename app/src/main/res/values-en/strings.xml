@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">registerApp</string>
+    <string name="title_register_meter">Register Meter</string>
+    <string name="label_value">Price</string>
+    <string name="type_water">Water</string>
+    <string name="type_light">Light</string>
+    <string name="type_gas">Gas</string>
+    <string name="register_button">Register Measurement</string>
+    <string name="no_measurements">No measurements registered.</string>
+    <string name="measurements_history">Measurement History</string>
+    <string name="add_measurement">Add Measurement</string>
+    <string name="error_empty_field">The field cannot be empty</string>
+    <string name="error_invalid_number">The value must be a number greater than 0</string>
+    <string name="label_date">Date</string>
+    <string name="delete_measurement">Delete Measurement</string>
+    <string name="unknown_type">Unknown Type</string>
+    <string name="previous_page">Previous Page</string>
+    <string name="next_page">Next Page</string>
+    <string name="register_success">Record added successfully!</string>
+    <string name="error_only_integers">Only whole numbers are allowed</string>
+</resources>
